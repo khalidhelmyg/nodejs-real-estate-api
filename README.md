@@ -350,4 +350,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 Repository:
 
-https://github.com/khalidhelmyg/nodejs-real-estate-rest-api
+https://github.com/khalidhelmyg/nodejs-real-estate-api
