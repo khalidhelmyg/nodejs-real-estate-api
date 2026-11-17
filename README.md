@@ -340,7 +340,7 @@ This project is currently published under the **ISC License** as specified in `p
 **Khaled Helmy**
 
 GitHub:
-https://github.com/khaledhelmyg
+https://github.com/khalidhelmyg
 
 ---
 
@@ -350,4 +350,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 Repository:
 
-https://github.com/khaledhelmyg/real-state-api
+https://github.com/khalidhelmyg/nodejs-real-estate-rest-api
